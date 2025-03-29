@@ -63,9 +63,9 @@ Selection and Evolution: NEAT selects the best-performing birds and evolves them
 
 Repeat: The process continues until an optimal strategy emerges.
 
-Configuration File (config_feedforward.txt)
+### Configuration File (config_feedforward.txt)
 
-### The config_feedforward.txt file defines parameters for NEAT, such as population size, mutation rates, and network structure.
+The config_feedforward.txt file defines parameters for NEAT, such as population size, mutation rates, and network structure.
 
 ## Controls (For Human Testing)
 
